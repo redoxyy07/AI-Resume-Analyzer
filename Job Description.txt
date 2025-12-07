@@ -1,0 +1,43 @@
+Data Analytics: Python, SQL, Excel, Power BI, Tableau, Data Visualization, Statistics
+
+Software Engineer: Java, Python, C++, Data Structures, Algorithms, OOP, Git
+
+Web Developer: HTML, CSS, JavaScript, React, Node.js, Bootstrap, REST API
+
+Machine Learning Engineer: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Feature Engineering
+
+AI Engineer: Deep Learning, NLP, Computer Vision, Transformers, PyTorch, TensorFlow
+
+Data Scientist: Machine Learning, Python, R, SQL, Data Cleaning, Statistics, Visualization
+
+Cyber Security Analyst: Network Security, Ethical Hacking, Firewalls, SIEM, Cryptography, Linux
+
+Cloud Engineer: AWS, Azure, GCP, Docker, Kubernetes, Terraform, Linux
+
+DevOps Engineer: CI/CD, Docker, Kubernetes, Jenkins, GitHub Actions, Monitoring Tools
+
+Mobile App Developer: Flutter, Dart, React Native, Kotlin, Swift, Firebase
+
+Blockchain Developer: Solidity, Smart Contracts, Ethereum, Web3.js, Cryptography, DApps
+
+Game Developer: Unity, Unreal Engine, C#, C++, Game Physics, Animation
+
+Business Analyst: Excel, SQL, Power BI, Requirement Gathering, Documentation
+
+UI/UX Designer: Figma, Adobe XD, Wireframing, Prototyping, User Research
+
+Network Engineer: Routing, Switching, TCP/IP, LAN/WAN, Cisco, Network Security
+
+Data Engineer: SQL, Python, ETL, Apache Spark, Hadoop, Airflow, Data Warehousing
+
+Backend Developer: Node.js, Python, Django, Flask, SQL, REST API, Authentication
+
+Frontend Developer: HTML, CSS, JavaScript, React, Vue.js, UI Components
+
+Full Stack Developer: React, Node.js, MongoDB, Express.js, APIs, Authentication
+
+Big Data Engineer: Hadoop, Spark, Hive, Kafka, Scala, ETL Pipelines
+
+QA Tester: Manual Testing, Automation Testing, Selenium, Test Cases, Bug Reporting
+
+Database Administrator: SQL, Oracle, MySQL, PostgreSQL, Backup & Recovery, Indexing

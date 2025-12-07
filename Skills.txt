@@ -1,0 +1,107 @@
+python
+java
+c++
+c
+r
+sql
+mysql
+postgresql
+mongodb
+excel
+power bi
+tableau
+lookml
+google data studio
+apache spark
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+keras
+tensorflow
+nltk
+spacy
+openai
+huggingface
+fastapi
+flask
+django
+etl
+azure
+aws
+google cloud
+gcp
+cloud computing
+big data
+data warehousing
+data mining
+data visualization
+data analysis
+machine learning
+deep learning
+artificial intelligence
+ai
+nlp
+time series analysis
+statistics
+probability
+descriptive statistics
+inferential statistics
+hypothesis testing
+feature engineering
+model evaluation
+classification
+regression
+clustering
+decision trees
+random forest
+xgboost
+lightgbm
+logistic regression
+linear regression
+knn
+svm
+naive bayes
+unsupervised learning
+supervised learning
+reinforcement learning
+rest api
+git
+github
+docker
+kubernetes
+jira
+agile
+scrum
+communication
+teamwork
+leadership
+presentation
+problem solving
+critical thinking
+ms office
+microsoft word
+microsoft powerpoint
+data cleaning
+data preprocessing
+data manipulation
+business intelligence
+spark sql
+hadoop
+unix
+linux
+bash
+json
+xml
+csv
+excel formulas
+pivot tables
+vlookup
+regex
+web scraping
+selenium
+beautifulsoup
+automation
+api integration
+data pipelines
